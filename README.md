@@ -1,4 +1,4 @@
-# pathfinding
+# astar-pathfinding
 
 ### Setup
 
